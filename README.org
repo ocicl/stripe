@@ -1,0 +1,10 @@
+* stripe
+
+Mirror of https://git.mfiano.net/mfiano/stripe
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/stripe.git   |
+| commit  | 1af6edb  |
+| systems | stripe |
+|---------+-------------------------------------------|
+
