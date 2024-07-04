@@ -4,6 +4,6 @@ A client for the Stripe payment API
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/stripe.git |
-| commit  | 23e41e1                                          |
+| commit  | 416fb80                                          |
 | systems | stripe                                           |
 |---------+--------------------------------------------------|
