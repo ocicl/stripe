@@ -2,8 +2,8 @@
 
 A client for the Stripe payment API
 
-|---------+--------------------------------------------------|
-| source  | git:https://github.com/atlas-engineer/stripe.git |
-| commit  | d93b05f                                          |
-| systems | stripe                                           |
-|---------+--------------------------------------------------|
+|---------+----------------------------------------------|
+| source  | git:https://github.com/boogsbunny/stripe.git |
+| commit  | 7c7c52b                                      |
+| systems | stripe                                       |
+|---------+----------------------------------------------|
