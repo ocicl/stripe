@@ -4,6 +4,6 @@ A client for the Stripe payment API
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/boogsbunny/stripe.git |
-| commit  | 2d56a37                                      |
+| commit  | d33d262                                      |
 | systems | stripe                                       |
 |---------+----------------------------------------------|
